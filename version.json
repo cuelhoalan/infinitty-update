@@ -1,15 +1,9 @@
 {
-  "version": "v1.3",
-  "url": "https://github.com/cuelhoalan/infinitty-update/releases/download/v1.1/InfinittyUpdate_v1.1.zip",
-    "archivo": "InfinittyUpdate_v1.1.zip",
-   "notas": [
-    "+8 marcadores agregados y previas corregidas.",
-    "Menús añadidos: FC26, RM e Infinitty FS.",
-    "Inclusión de pantalla de presentación."
-  ]
+  "version": "v1.2",
+  "url": "https://github.com/cuelhoalan/infinitty-update/releases/download/v1.1/InfinittyUpdate_v1.2.zip",
+    "archivo": "InfinittyUpdate_v1.2.zip",
+   "notas": "Sistema de actualizaciones automaticas renovada.."
 }
-
-
 
 
 
